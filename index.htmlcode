@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="https://use.typekit.net/tzu3aij.css">
+
+<meta charset=”UTF-8”>
+
+<!-- THE TITLE WILL APPEAR IN THE BROWSER WINDOW OR TAB -->
+<title>     Elle Witkowski | Contact Page    </title>
+<link rel="stylesheet" type="text/css" href="styles-contact.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com"
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap" rel="stylesheet">
+
+
+
+</head>
+
+<body>
+    <div class="center">
+        <img id="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDWsfHuPRrxjlHDwA8OzPl4_APofgK_HHMg&usqp=CAU"alt="EWlogo" width="300">
+
+        <style>
+          /* CSS code to change link text color */
+          a {
+            color: black;
+          }
+        </style>
+        <p>WELCOME TO MY PAGE!</p>
+        <h1> I am a freshman college student at Cal Poly majoring in graphic communication!</h1>
+
+     <img id="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_35CqTVw0M0-dp6cRtlNrfap28y3tL-yWw&usqp=CAU"alt="Elle Witkowski Design logo" width="300">
+     <h3>California Polytechnic State University, SLO</h3>
+<div class="center">
+   
+<h2>Contact me!</h2>
+<nav>
+    <ul>
+        <li><a href ="https://www.behance.net/elliewitkowski/projects"> My Work </a></li>
+        <li><a href ="https://www.linkedin.com/in/ellie-witkowski-7823b7220/"
+    target="_blank"> LinkedIn </a></li>
+        <li><a href="mailto:elliewit3@gmail.com"> Email Me </a></li>
+    </ul>
+</nav>
+
+</div> <!--end of center div-->
+
+</body>
+
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Apply cursive font to the body element */
+    body {
+      font-family: cursive;
+    }
+
+    /* Apply cursive font to a specific element with the class "cursive-text" */
+    .cursive-text {
+      font-family: cursive;
+    }
+  </style>
+  <title>Cursive Font Example</title>
+</head>
+
+
